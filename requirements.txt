@@ -1,5 +1,5 @@
 mysql-connector-python==8.0.17
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.14.2
 pandas==0.22.0
 scikit-learn==0.19.1
